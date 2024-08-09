@@ -1,0 +1,22 @@
+# Ignore virtual environment
+AnimeApp/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore environment variable files
+.env
+
+# Ignore database files
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+*.log
+*.tmp
+
+# Ignore editor settings
+.vscode/
+.idea/
+*.swp
